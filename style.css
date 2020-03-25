@@ -1,0 +1,104 @@
+
+.menu{
+  background-color: #F2F2F2;
+  height: 50px;
+  width: 100%
+
+
+}
+
+.cookies-text{
+text-align:center;
+font-size: 18px;
+padding-top: 10px;
+margin: auto;
+
+}
+
+span{
+  color: red
+}
+.main-menu{
+  display: flex;
+}
+
+.btn{
+  border: 3px black solid;
+  color: blue;
+  height: 40px;
+  width: 100px;
+font-style:oblique;
+background-color: white;
+
+}
+.btn:hover{
+  color: red;
+}
+.login-menu{
+  position: absolute;
+  right: 7%;
+  top: 10%;
+}
+.menu-items{
+padding-top:2%;
+
+}
+.items{
+text-decoration:none;
+font-size: 20px;
+color: #917373;
+padding: 20px;
+}
+
+.row{
+  display: flex;
+
+}
+.col{
+  padding: 5px;
+  margin: auto;
+  height: 100%
+  width:100;
+
+}
+.btn-dark{
+  color: white;
+  font-size: 20px;
+  background-color: black;
+  height: 60px;
+  width: 30;
+}
+.container{
+  background-color: #E8E8E8;
+  height: 100%;
+  width: 85%;
+  margin:auto;
+}
+.card{
+  height: 100px;
+  width: 50px;
+  text-align: center;
+}
+.container2{
+  background-color: #E8E8E8;
+  height: 250px;
+  width: 85%;
+  margin:auto;
+}
+.container3{
+background-color:#E8E8E8;
+height: 250px;
+width: 85%;
+margin:auto;
+}
+.container3p{
+  font-size: 22px;
+  font-style: normal;
+  color: green;
+}
+.main-foot{
+  background-color:#97BAB3;
+  height: 100px;
+  width: 85%;
+  margin:auto;
+}
